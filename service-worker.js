@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Al-Kafeel/precache-manifest.d69e1b0ac09310085c6ae37d007607bf.js"
+  "/Al-Kafeel/precache-manifest.73e34fc225e96a3bb3532c2115662373.js"
 );
 
 self.addEventListener('message', (event) => {

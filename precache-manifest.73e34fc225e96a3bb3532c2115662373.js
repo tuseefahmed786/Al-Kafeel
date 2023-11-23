@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90ecd9faad819091442c4f9e07b6cc01",
+    "revision": "b122f6e9c92f7c8dc94714e7a547b9a5",
     "url": "/Al-Kafeel/index.html"
   },
   {
-    "revision": "9bc4c90be05040f808f8",
-    "url": "/Al-Kafeel/static/css/main.02d8bc94.chunk.css"
+    "revision": "8d48d00741242c10c54b",
+    "url": "/Al-Kafeel/static/css/main.00c45e75.chunk.css"
   },
   {
     "revision": "ce8fe68c1ca2d216a483",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Al-Kafeel/static/js/3.65813d43.chunk.js"
   },
   {
-    "revision": "9bc4c90be05040f808f8",
-    "url": "/Al-Kafeel/static/js/main.878df134.chunk.js"
+    "revision": "8d48d00741242c10c54b",
+    "url": "/Al-Kafeel/static/js/main.8893a415.chunk.js"
   },
   {
     "revision": "22818ea35b9c2651171c",
