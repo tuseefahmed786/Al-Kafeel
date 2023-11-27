@@ -1,0 +1,129 @@
+@media screen and (max-width: 834px) {
+  .all-components {
+    display: none;
+  }
+  .dashboard {
+    padding: 0 1.5em;
+  }
+  nav {
+    padding: 0.5em 1.5em !important;
+  }
+  .logo h1 {
+    font-size: 18px;
+  }
+  .show-comp {
+    width: 100%!important;
+    box-sizing: border-box;
+}
+}
+@media screen and (max-width: 660px) {
+  nav ul {
+    display: none !important;
+  }
+  .resposive-navbar{
+    display: block;
+  }
+  .second, .first {
+  align-items: start;
+  }
+  .import-code p{
+margin: 0;
+  }
+  .resposive-nav {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background: white;
+    left: 0px;
+    top: 45px;
+    padding: 9px 9px;
+    box-sizing: border-box;
+    flex-direction: column;
+    gap: 12px;
+}
+.social-links{
+  flex-direction: column;
+  padding: 14px 14px;
+  border-radius: 13px;
+  background: url('../static/assests/navbar/rocket.jpg'), #e9f1fe;
+  background-size: 135px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+.nav-mobile h4 {
+  color: black;
+  margin: 0;
+  padding: 5px 0;
+}
+.nav-mobile {
+  flex-direction: column;
+  padding: 14px 14px;
+  border-radius: 13px;
+  background: url('../static/assests/navbar/bfa2c680692bb91bd4ddbc794618997b.jpg'), #e9f1fe;
+  background-size: 135px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+.nav-link a {
+  text-decoration: underline;
+}
+  .resposive-navbar::before {
+    content: "\2630";
+  }
+  .expand-navbar::before {
+    content: "\2715";
+  }
+}
+@media screen and (max-width: 574px) {
+  .import-code,
+  .code-snip {
+    /* flex-wrap: wrap; */
+    white-space: nowrap;
+  }
+  nav {
+    padding: 0 !important;
+  }
+  .ccc {
+    padding: 0.9em 1.5em !important;
+    box-sizing: border-box;
+  }
+  .first,
+  .second {
+    flex-direction: column;
+  }
+  body {
+    background-position: top;
+  }
+  .heading h1 {
+    margin: 0;
+  }
+  .hr-align {
+    margin: 0;
+  }
+  .circle-custom::before {
+    content: "";
+    display: none;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .show-comp {
+    /* width: 100vw; */
+    padding: 0 1em;
+  }
+  .dashboard {
+    padding: 0 !important;
+  }
+  .preview-show {
+    padding: 1.2em;
+    margin-bottom: 1.9em;
+  }
+  .hero-heading h1 {
+    font-size: 2em;
+    max-width: none;
+}
+.hero-heading {
+  padding: 2em 1em;
+}
+
+}

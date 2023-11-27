@@ -1,0 +1,149 @@
+.hr-align {
+  border-color: hsl(240 5% 26%);
+  border-top-width: 1px;
+  margin: 1em 0;
+}
+code{
+  color: white;
+}
+.dashboard {
+  flex-wrap: wrap;
+}
+
+.first,
+.second {
+  margin-bottom: 1em;
+}    
+.mb-1 {
+  margin-bottom: 1em;
+}
+.show-comp {
+  width: 70vw;
+}
+.all-components {
+width: 20vw;
+}
+.import-code,
+.code-snip {
+  overflow: scroll;
+}.code-snip::-webkit-scrollbar{
+  width: 0;
+  height: 0;
+}
+.import-code::-webkit-scrollbar{
+  width: 0;
+  height: 0;
+}
+.preview-show::-webkit-scrollbar{
+  width: 0;
+  height: 0;
+}
+.how-to-import h2{
+  margin: 0.5em 0;
+}
+.circle-custom::before {
+  content: "";
+  display: inline-flex;
+  margin-right: 14px;
+  width: 5px;
+  height: 5px;
+  border-radius: 302px;
+  background-color: #858585;
+}
+.import-align {
+  padding: 12px 20px;
+  background: #181818;
+  font-size: 14px;
+  margin-top: 2.2em;
+  margin-bottom: 2.2em;
+}
+.import-color {
+  color: #c678dd;
+}
+.green-color {
+  color: #90b873;
+}
+.preview-code div h4 {
+  font-weight: 400;
+  color: black;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+.bottom-border {
+  border-bottom: 2px solid black;
+}
+.preview-show {
+  border: 1px solid #373737;
+  padding: 2em;
+  border-radius: 12px;
+  margin-top: 1em;
+  background-color: #060505;
+  margin-bottom: 2.9em;
+}
+.iframe {
+  width: 100%;
+  height: 500px;
+  border: 0;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.custom-blue{
+    color: #61afef;
+}
+.custom-codeColor{
+  color:  #cbaa6d;
+}
+.custom-lightBlue{
+    color: #91b4d5;
+}
+.code-snip{
+    flex-direction: column;
+    gap: 2px;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: #181818;
+}
+.preview , .code:hover{
+cursor: pointer;
+}
+.max-Layout{
+  margin-bottom: 2em;
+}
+/* Home Section  */
+.hero-heading h1 {
+  font-size: 4em;
+  font-family: 'Source Serif 4';
+  max-width: 895px;
+  text-align: center;
+}
+.home{
+  width: 100%;
+  justify-content: center;
+}
+.active-link{
+    color: black!important;
+    text-decoration: underline!important;
+}
+.download-npm p {
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0;
+  padding: 12px 18px;
+  font-weight: 500;
+  background: #ffd780;
+  border-radius: 42px;
+}
+.hero-heading {
+  padding: 4em 0;
+}
+.home-button a {
+  background: #d6c5ef;
+  border: none;
+  text-decoration: none;
+  color: black;
+  border-radius: 1000px;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Source Serif 4';
+  padding: 14px 20px;
+}
