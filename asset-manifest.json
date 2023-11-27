@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Al-Kafeel/static/css/main.a02bcb75.css",
+    "main.css": "/Al-Kafeel/static/css/main.465e8471.css",
     "main.js": "/Al-Kafeel/static/js/main.e41e4f45.js",
     "static/js/787.820ee81e.chunk.js": "/Al-Kafeel/static/js/787.820ee81e.chunk.js",
     "static/media/jpg": "/Al-Kafeel/static/media/bfa2c680692bb91bd4ddbc794618997b.ee9f961ac00134338931.jpg",
@@ -12,12 +12,12 @@
     "static/media/empg.jfif": "/Al-Kafeel/static/media/empg.3fabdff0927e45003a88.jfif",
     "static/media/me.jfif": "/Al-Kafeel/static/media/me.54f869f5f60bf9f152ac.jfif",
     "index.html": "/Al-Kafeel/index.html",
-    "main.a02bcb75.css.map": "/Al-Kafeel/static/css/main.a02bcb75.css.map",
+    "main.465e8471.css.map": "/Al-Kafeel/static/css/main.465e8471.css.map",
     "main.e41e4f45.js.map": "/Al-Kafeel/static/js/main.e41e4f45.js.map",
     "787.820ee81e.chunk.js.map": "/Al-Kafeel/static/js/787.820ee81e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a02bcb75.css",
+    "static/css/main.465e8471.css",
     "static/js/main.e41e4f45.js"
   ]
 }
