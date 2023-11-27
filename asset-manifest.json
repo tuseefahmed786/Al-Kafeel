@@ -1,31 +1,23 @@
 {
   "files": {
-    "main.css": "/Al-Kafeel/static/css/main.82e24329.chunk.css",
-    "main.js": "/Al-Kafeel/static/js/main.07510266.chunk.js",
-    "main.js.map": "/Al-Kafeel/static/js/main.07510266.chunk.js.map",
-    "runtime-main.js": "/Al-Kafeel/static/js/runtime-main.c2a2d241.js",
-    "runtime-main.js.map": "/Al-Kafeel/static/js/runtime-main.c2a2d241.js.map",
-    "static/js/2.01ddbbf9.chunk.js": "/Al-Kafeel/static/js/2.01ddbbf9.chunk.js",
-    "static/js/2.01ddbbf9.chunk.js.map": "/Al-Kafeel/static/js/2.01ddbbf9.chunk.js.map",
-    "static/js/3.65813d43.chunk.js": "/Al-Kafeel/static/js/3.65813d43.chunk.js",
-    "static/js/3.65813d43.chunk.js.map": "/Al-Kafeel/static/js/3.65813d43.chunk.js.map",
+    "main.css": "/Al-Kafeel/static/css/main.c9e1a52c.css",
+    "main.js": "/Al-Kafeel/static/js/main.94972f6d.js",
+    "static/js/787.820ee81e.chunk.js": "/Al-Kafeel/static/js/787.820ee81e.chunk.js",
+    "static/media/hello.mp4": "/Al-Kafeel/static/media/hello.c035d47f7bcf6c794587.mp4",
+    "static/media/jpg": "/Al-Kafeel/static/media/bfa2c680692bb91bd4ddbc794618997b.ee9f961ac00134338931.jpg",
+    "static/media/Mona-Sans-woff2": "/Al-Kafeel/static/media/Mona-Sans-f258701679eace96725e03121950af40ae6e4ceef03b21242c66a3b7ae6ccbf4.2f40792e491758879b85.woff2",
+    "static/media/rocket.jpg": "/Al-Kafeel/static/media/rocket.8b96d7e1b3a114896812.jpg",
+    "static/media/random.jfif": "/Al-Kafeel/static/media/random.d1d18529af55e205f24c.jfif",
+    "static/media/fara.jfif": "/Al-Kafeel/static/media/fara.dd60990cfd18e1aecb2c.jfif",
+    "static/media/empg.jfif": "/Al-Kafeel/static/media/empg.3fabdff0927e45003a88.jfif",
+    "static/media/me.jfif": "/Al-Kafeel/static/media/me.54f869f5f60bf9f152ac.jfif",
     "index.html": "/Al-Kafeel/index.html",
-    "precache-manifest.3daae55e25787c781f03086f3c953eaa.js": "/Al-Kafeel/precache-manifest.3daae55e25787c781f03086f3c953eaa.js",
-    "service-worker.js": "/Al-Kafeel/service-worker.js",
-    "static/css/main.82e24329.chunk.css.map": "/Al-Kafeel/static/css/main.82e24329.chunk.css.map",
-    "static/js/2.01ddbbf9.chunk.js.LICENSE.txt": "/Al-Kafeel/static/js/2.01ddbbf9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Al-Kafeel/static/media/Mona-Sans-f258701679eace96725e03121950af40ae6e4ceef03b21242c66a3b7ae6ccbf4.b96cc834.woff2",
-    "static/media/allmediaquery.css": "/Al-Kafeel/static/media/rocket.4e9d0d54.jpg",
-    "static/media/empg.jfif": "/Al-Kafeel/static/media/empg.1b2459b9.jfif",
-    "static/media/fara.jfif": "/Al-Kafeel/static/media/fara.3c101cfa.jfif",
-    "static/media/hello.mp4": "/Al-Kafeel/static/media/hello.2859822f.mp4",
-    "static/media/me.jfif": "/Al-Kafeel/static/media/me.30b19c44.jfif",
-    "static/media/random.jfif": "/Al-Kafeel/static/media/random.9ac28a2c.jfif"
+    "main.c9e1a52c.css.map": "/Al-Kafeel/static/css/main.c9e1a52c.css.map",
+    "main.94972f6d.js.map": "/Al-Kafeel/static/js/main.94972f6d.js.map",
+    "787.820ee81e.chunk.js.map": "/Al-Kafeel/static/js/787.820ee81e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2a2d241.js",
-    "static/js/2.01ddbbf9.chunk.js",
-    "static/css/main.82e24329.chunk.css",
-    "static/js/main.07510266.chunk.js"
+    "static/css/main.c9e1a52c.css",
+    "static/js/main.94972f6d.js"
   ]
 }
