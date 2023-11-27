@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Al-Kafeel/static/css/main.c9e1a52c.css",
-    "main.js": "/Al-Kafeel/static/js/main.94972f6d.js",
+    "main.css": "/Al-Kafeel/static/css/main.a02bcb75.css",
+    "main.js": "/Al-Kafeel/static/js/main.e41e4f45.js",
     "static/js/787.820ee81e.chunk.js": "/Al-Kafeel/static/js/787.820ee81e.chunk.js",
-    "static/media/hello.mp4": "/Al-Kafeel/static/media/hello.c035d47f7bcf6c794587.mp4",
     "static/media/jpg": "/Al-Kafeel/static/media/bfa2c680692bb91bd4ddbc794618997b.ee9f961ac00134338931.jpg",
     "static/media/Mona-Sans-woff2": "/Al-Kafeel/static/media/Mona-Sans-f258701679eace96725e03121950af40ae6e4ceef03b21242c66a3b7ae6ccbf4.2f40792e491758879b85.woff2",
+    "static/media/video.mp4": "/Al-Kafeel/static/media/video.e55026717036a79698fa.mp4",
     "static/media/rocket.jpg": "/Al-Kafeel/static/media/rocket.8b96d7e1b3a114896812.jpg",
     "static/media/random.jfif": "/Al-Kafeel/static/media/random.d1d18529af55e205f24c.jfif",
     "static/media/fara.jfif": "/Al-Kafeel/static/media/fara.dd60990cfd18e1aecb2c.jfif",
     "static/media/empg.jfif": "/Al-Kafeel/static/media/empg.3fabdff0927e45003a88.jfif",
     "static/media/me.jfif": "/Al-Kafeel/static/media/me.54f869f5f60bf9f152ac.jfif",
     "index.html": "/Al-Kafeel/index.html",
-    "main.c9e1a52c.css.map": "/Al-Kafeel/static/css/main.c9e1a52c.css.map",
-    "main.94972f6d.js.map": "/Al-Kafeel/static/js/main.94972f6d.js.map",
+    "main.a02bcb75.css.map": "/Al-Kafeel/static/css/main.a02bcb75.css.map",
+    "main.e41e4f45.js.map": "/Al-Kafeel/static/js/main.e41e4f45.js.map",
     "787.820ee81e.chunk.js.map": "/Al-Kafeel/static/js/787.820ee81e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9e1a52c.css",
-    "static/js/main.94972f6d.js"
+    "static/css/main.a02bcb75.css",
+    "static/js/main.e41e4f45.js"
   ]
 }
